@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><meta:creation-date>2016-09-15T20:36:52.073287203</meta:creation-date><dc:title>lightgrey</dc:title><meta:editing-duration>PT3M15S</meta:editing-duration><meta:editing-cycles>4</meta:editing-cycles><meta:generator>LibreOffice/5.0.4.2$Linux_X86_64 LibreOffice_project/00m0$Build-2</meta:generator><dc:date>2016-09-15T20:40:32.096374415</dc:date><meta:document-statistic meta:object-count="33"/></office:meta>
+ <office:meta><meta:creation-date>2016-09-15T20:36:52.073287203</meta:creation-date><dc:title>lightgrey</dc:title><meta:editing-duration>PT1H29M56S</meta:editing-duration><meta:editing-cycles>7</meta:editing-cycles><meta:generator>LibreOffice/4.4.6.3$Windows_x86 LibreOffice_project/e8938fd3328e95dcf59dd64e7facd2c7d67c704d</meta:generator><dc:date>2016-09-16T15:16:52.942000000</dc:date><meta:document-statistic meta:object-count="55"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">-741</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">-5212</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">34148</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">21752</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">-10142</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">-15514</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">57888</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">32432</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -29,7 +29,7 @@
      <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
      <config:config-item config:name="RulerIsVisible" config:type="boolean">false</config:config-item>
      <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">1</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">5</config:config-item>
      <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
@@ -37,10 +37,10 @@
      <config:config-item config:name="EditModeStandard" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeNotes" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeHandout" config:type="int">1</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">-741</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-5212</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">36884</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">23496</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">-10142</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-15514</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">57889</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">32433</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">2000</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">2000</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">200</config:config-item>
@@ -64,6 +64,13 @@
    <config:config-item config:name="DefaultTabStop" config:type="int">1250</config:config-item>
    <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="ForbiddenCharacters">
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">de</config:config-item>
+     <config:config-item config:name="Country" config:type="string">DE</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string"/>
+     <config:config-item config:name="EndLine" config:type="string"/>
+    </config:config-item-map-entry>
     <config:config-item-map-entry>
      <config:config-item config:name="Language" config:type="string">en</config:config-item>
      <config:config-item config:name="Country" config:type="string">GB</config:config-item>
@@ -95,8 +102,8 @@
    <config:config-item config:name="ParagraphSummation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintQuality" config:type="int">0</config:config-item>
    <config:config-item config:name="PrinterIndependentLayout" config:type="string">low-resolution</config:config-item>
-   <config:config-item config:name="PrinterName" config:type="string">Generic Printer</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">jAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsgAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MApjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKUGFnZVNpemU6QTQARHVwbGV4Ok5vbmUAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">Canon iP7200 series WS</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">tA7+/0Nhbm9uIGlQNzIwMCBzZXJpZXMgV1MAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ2Fub24gaVA3MjAwIHNlcmllcwAAAAAAAAAAAAAAAAAWAAEA2g0AAAAAAAAEAAhSAAAEdAAAM1ROVwYAQwBhAG4AbwBuACAAaQBQADcAMgAwADAAIABzAGUAcgBpAGUAcwAgAFcAUwAAAAAAAAAAAAAAAAAAAAAAAAAAAAEECQzcAPgMA9+BAwEACQCaCzQIZAABABcB/f8CAAEAAAABAAEAQQA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAgAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAPgMAABCSkRNCQwAAAAAAADcCAAAzwAAAM8AAAAAAAAAAAAAAAEAAAAIUgAABHQAACwBAABUAQAAYE8AAORwAAAsAQAAVAEAAGBPAADkcAAACFIAAAR0AAAsAQAAVAEAAFQBAAD0AQAAYE8AAORwAAAsAQAAVAEAAFQBAAD0AQAALAEAAFQBAABUAQAA9AEAAGBPAADkcAAAWAJYAhgARQBOAFQAVwBVAFIARgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABNAHUAcwB0AGUAcgAgADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAnAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAwAAAAMAAAAAAAAAAgABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQAJAAMAAAADAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAMAAAAXAQAAAwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAgAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAZAAAAAkAAAAIUgAABHQAAAAAAAAJAAAACFIAAAR0AAAAAAAAAgAAAAAAAAABAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkwAAAAAAAAAAAAAAQAoAAAEAAAABAAAAMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAP//AAAAAAAAAAAAAAAAAAAKAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA//8AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhSAAAEdAAAAAAAAAEAAAB/AAAAfwAAAH8AAAB/AAAAAAAAAAEAAAAAAAAAAAAAAOcDAAD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAAAAAAAAAAAA5wMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAAgAAAAAAAAACAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA6AMAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAQAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEMAYQBuAG8AbgAgAGkAUAA3ADIAMAAwACAAcwBlAHIAaQBlAHMAIABXAFMAAAAAAAAAAAAAAAAAAAAAAAAAAAABBAkM3AD4DAPfgQMBAAkAmgs0CGQAAQAXAf3/AgABAAAAAQABAEEANAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAIAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAABbN0n7EgBDT01QQVRfRFVQTEVYX01PREUKAERVUExFWF9PRkY=</config:config-item>
    <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SlidesPerHandout" config:type="short">6</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
@@ -104,7 +111,9 @@
  </office:settings>
  <office:scripts>
   <office:script script:language="ooo:Basic">
-   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
   </office:script>
  </office:scripts>
  <office:font-face-decls>
@@ -120,10 +129,12 @@
   <style:font-face style:name="FreeSans1" svg:font-family="FreeSans" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Sans2" svg:font-family="&apos;Liberation Sans&apos;, Arial" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="Source Sans Pro2" svg:font-family="&apos;Source Sans Pro&apos;" style:font-adornments="Regular" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial Unicode MS" svg:font-family="&apos;Arial Unicode MS&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="DejaVu Sans" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Droid Sans Fallback" svg:font-family="&apos;Droid Sans Fallback&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="FreeSans" svg:font-family="FreeSans" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Mono3" svg:font-family="&apos;Liberation Mono&apos;, &apos;Courier New&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Microsoft YaHei" svg:font-family="&apos;Microsoft YaHei&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
  </office:font-face-decls>
  <office:styles>
   <draw:marker draw:name="Arrow" svg:viewBox="0 0 20 30" svg:d="M10 0l-10 30h20z"/>
@@ -191,7 +202,7 @@
   <style:style style:name="objectwithoutfill" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties svg:stroke-color="#000000" draw:fill="none"/>
   </style:style>
-  <style:style style:name="Object_20_with_20_no_20_fill_20_and_20_no_20_line" style:display-name="Object with no fill and no line" style:family="graphic" style:parent-style-name="standard">
+  <style:style style:name="Objekt_20_ohne_20_Füllung_20_und_20_Linie" style:display-name="Objekt ohne Füllung und Linie" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="none" draw:fill="none"/>
   </style:style>
   <style:style style:name="text" style:family="graphic" style:parent-style-name="standard">
@@ -241,6 +252,9 @@
   <style:style style:name="measure" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="solid" svg:stroke-color="#000000" draw:marker-start="Arrow" draw:marker-start-width="0.2cm" draw:marker-end="Arrow" draw:marker-end-width="0.2cm" draw:fill="none" draw:show-unit="true"/>
    <style:text-properties fo:font-size="12pt"/>
+  </style:style>
+  <style:style style:name="Object_20_with_20_no_20_fill_20_and_20_no_20_line" style:display-name="Object with no fill and no line" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none"/>
   </style:style>
   <style:style style:name="Normal" style:family="graphic">
    <style:paragraph-properties style:text-autospace="none"/>
@@ -566,11 +580,21 @@
   <style:style style:name="P9" style:family="paragraph">
    <style:text-properties fo:font-size="32pt" style:font-size-asian="32pt" style:font-size-complex="32pt"/>
   </style:style>
+  <style:style style:name="P10" style:family="paragraph">
+   <loext:graphic-properties draw:fill-color="#ffffff"/>
+   <style:text-properties fo:font-size="20pt"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph">
+   <style:text-properties fo:font-size="44pt" style:font-size-asian="44pt" style:font-size-complex="44pt"/>
+  </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="T2" style:family="text">
    <style:text-properties fo:font-size="32pt" style:font-size-asian="32pt" style:font-size-complex="32pt"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties fo:font-size="44pt" style:font-size-asian="44pt" style:font-size-complex="44pt"/>
   </style:style>
   <text:list-style style:name="L1">
    <text:list-level-style-bullet text:level="1" text:bullet-char="●">
@@ -710,22 +734,22 @@
   <style:handout-master presentation:presentation-page-layout-name="AL0T26" style:page-layout-name="PM0" draw:style-name="dp2">
    <draw:frame draw:style-name="gr1" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="0cm" svg:y="0cm" presentation:class="header">
     <draw:text-box>
-     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
+     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame draw:style-name="gr1" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="11.886cm" svg:y="0cm" presentation:class="date-time">
     <draw:text-box>
-     <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
+     <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame draw:style-name="gr2" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="0cm" svg:y="28.215cm" presentation:class="footer">
     <draw:text-box>
-     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
+     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame draw:style-name="gr2" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="11.886cm" svg:y="28.215cm" presentation:class="page-number">
     <draw:text-box>
-     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
+     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:page-thumbnail draw:layer="backgroundobjects" svg:width="8.999cm" svg:height="6.749cm" svg:x="1cm" svg:y="2.898cm"/>
@@ -748,19 +772,22 @@
    <draw:frame presentation:style-name="lightgrey-outline1" draw:layer="backgroundobjects" svg:width="25.199cm" svg:height="12.179cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline" presentation:placeholder="true">
     <draw:text-box/>
    </draw:frame>
+   <draw:frame presentation:style-name="lightgrey-outline1" draw:layer="backgroundobjects" svg:width="25.199cm" svg:height="12.179cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline" presentation:placeholder="true">
+    <draw:text-box/>
+   </draw:frame>
    <draw:frame presentation:style-name="pr1" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="6.523cm" svg:height="1.448cm" svg:x="1.4cm" svg:y="19.131cm" presentation:class="date-time">
     <draw:text-box>
-     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
+     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame presentation:style-name="pr1" draw:text-style-name="P6" draw:layer="backgroundobjects" svg:width="8.875cm" svg:height="1.448cm" svg:x="9.576cm" svg:y="19.131cm" presentation:class="footer">
     <draw:text-box>
-     <text:p text:style-name="P5"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
+     <text:p text:style-name="P5"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame presentation:style-name="pr1" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="6.523cm" svg:height="1.448cm" svg:x="20.076cm" svg:y="19.131cm" presentation:class="page-number">
     <draw:text-box>
-     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
+     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:p>
     </draw:text-box>
    </draw:frame>
    <presentation:notes style:page-layout-name="PM0">
@@ -774,24 +801,27 @@
     <draw:frame presentation:style-name="lightgrey-notes" draw:layer="backgroundobjects" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
      <draw:text-box/>
     </draw:frame>
+    <draw:frame presentation:style-name="lightgrey-notes" draw:layer="backgroundobjects" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
+     <draw:text-box/>
+    </draw:frame>
     <draw:frame presentation:style-name="pr2" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="0cm" svg:y="0cm" presentation:class="header">
      <draw:text-box>
-      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
+      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr2" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="11.886cm" svg:y="0cm" presentation:class="date-time">
      <draw:text-box>
-      <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
+      <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr3" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="0cm" svg:y="28.215cm" presentation:class="footer">
      <draw:text-box>
-      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
+      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr3" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="11.886cm" svg:y="28.215cm" presentation:class="page-number">
      <draw:text-box>
-      <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
+      <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:p>
      </draw:text-box>
     </draw:frame>
    </presentation:notes>
@@ -4114,22 +4144,162 @@
     </draw:frame>
     <draw:frame presentation:style-name="lightgrey-outline1" draw:text-style-name="P9" draw:layer="layout" svg:width="25.199cm" svg:height="12.179cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p text:style-name="P9"><text:span text:style-name="T2">Römische Germanienpolitik vor der Schlacht</text:span></text:p>
-      <text:p text:style-name="P9"><text:span text:style-name="T2"/></text:p>
-      <text:p text:style-name="P9"><text:span text:style-name="T2">Statthalter Publius Quinctilius Varus</text:span></text:p>
-      <text:p text:style-name="P9"><text:span text:style-name="T2"/></text:p>
-      <text:p text:style-name="P9"><text:span text:style-name="T2">Cheruskerfürst Arminius</text:span></text:p>
-      <text:p text:style-name="P9"><text:span text:style-name="T2"/></text:p>
-      <text:p text:style-name="P9"><text:span text:style-name="T2">Die Schlacht und deren Ort</text:span></text:p>
-      <text:p text:style-name="P9"><text:span text:style-name="T2"/></text:p>
-      <text:p text:style-name="P9"><text:span text:style-name="T2">Nachwirkungen und Quellen</text:span></text:p>
-      <text:p text:style-name="P9"><text:span text:style-name="T2"/></text:p>
-      <text:p text:style-name="P9"><text:span text:style-name="T2">Moderne Historikermeinungen</text:span></text:p>
+      <text:p><text:span text:style-name="T2">Römische Germanienpolitik vor der Schlacht</text:span></text:p>
+      <text:p><text:span text:style-name="T2"/></text:p>
+      <text:p><text:span text:style-name="T2">Statthalter Publius Quinctilius Varus</text:span></text:p>
+      <text:p><text:span text:style-name="T2"/></text:p>
+      <text:p><text:span text:style-name="T2">Cheruskerfürst Arminius</text:span></text:p>
+      <text:p><text:span text:style-name="T2"/></text:p>
+      <text:p><text:span text:style-name="T2">Die Schlacht und deren Ort</text:span></text:p>
+      <text:p><text:span text:style-name="T2"/></text:p>
+      <text:p><text:span text:style-name="T2">Nachwirkungen und Quellen</text:span></text:p>
+      <text:p><text:span text:style-name="T2"/></text:p>
+      <text:p><text:span text:style-name="T2">Moderne Historikermeinungen</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
      <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="2" presentation:class="page"/>
      <draw:frame presentation:style-name="pr6" draw:text-style-name="P8" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="page3" draw:style-name="dp3" draw:master-page-name="lightgrey" presentation:presentation-page-layout-name="AL2T1">
+    <draw:frame presentation:style-name="pr4" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:p>Varus Vermächtnis</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame presentation:style-name="lightgrey-outline1" draw:text-style-name="P9" draw:layer="layout" svg:width="25.199cm" svg:height="12.179cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T2">Römische Germanienpolitik vor der Schlacht</text:span></text:p>
+      <text:p><text:span text:style-name="T2"/></text:p>
+      <text:p><text:span text:style-name="T2">Statthalter Publius Quinctilius Varus</text:span></text:p>
+      <text:p><text:span text:style-name="T2"/></text:p>
+      <text:p><text:span text:style-name="T2">Cheruskerfürst Arminius</text:span></text:p>
+      <text:p><text:span text:style-name="T2"/></text:p>
+      <text:p><text:span text:style-name="T2">Die Schlacht und deren Ort</text:span></text:p>
+      <text:p><text:span text:style-name="T2"/></text:p>
+      <text:p><text:span text:style-name="T2">Nachwirkungen und Quellen</text:span></text:p>
+      <text:p><text:span text:style-name="T2"/></text:p>
+      <text:p><text:span text:style-name="T2">Moderne Historikermeinungen</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp2">
+     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="3" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr6" draw:text-style-name="P10" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="page4" draw:style-name="dp3" draw:master-page-name="lightgrey" presentation:presentation-page-layout-name="AL2T1">
+    <draw:frame presentation:style-name="pr4" draw:text-style-name="P11" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:p text:style-name="P11"><text:span text:style-name="T3">Cheruskerfürst Arminius</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame presentation:style-name="lightgrey-outline1" draw:text-style-name="P9" draw:layer="layout" svg:width="25.199cm" svg:height="12.179cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T2">Römische Germanienpolitik vor der Schlacht</text:span></text:p>
+      <text:p><text:span text:style-name="T2"/></text:p>
+      <text:p><text:span text:style-name="T2">Statthalter Publius Quinctilius Varus</text:span></text:p>
+      <text:p><text:span text:style-name="T2"/></text:p>
+      <text:p><text:span text:style-name="T2">Cheruskerfürst Arminius</text:span></text:p>
+      <text:p><text:span text:style-name="T2"/></text:p>
+      <text:p><text:span text:style-name="T2">Die Schlacht und deren Ort</text:span></text:p>
+      <text:p><text:span text:style-name="T2"/></text:p>
+      <text:p><text:span text:style-name="T2">Nachwirkungen und Quellen</text:span></text:p>
+      <text:p><text:span text:style-name="T2"/></text:p>
+      <text:p><text:span text:style-name="T2">Moderne Historikermeinungen</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp2">
+     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="4" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr6" draw:text-style-name="P10" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="page5" draw:style-name="dp3" draw:master-page-name="lightgrey" presentation:presentation-page-layout-name="AL2T1">
+    <draw:frame presentation:style-name="pr4" draw:text-style-name="P11" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:p text:style-name="P11"><text:span text:style-name="T3">Handlungsort der Schlacht</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame presentation:style-name="lightgrey-outline1" draw:text-style-name="P9" draw:layer="layout" svg:width="25.199cm" svg:height="12.179cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T2">Römische Germanienpolitik vor der Schlacht</text:span></text:p>
+      <text:p><text:span text:style-name="T2"/></text:p>
+      <text:p><text:span text:style-name="T2">Statthalter Publius Quinctilius Varus</text:span></text:p>
+      <text:p><text:span text:style-name="T2"/></text:p>
+      <text:p><text:span text:style-name="T2">Cheruskerfürst Arminius</text:span></text:p>
+      <text:p><text:span text:style-name="T2"/></text:p>
+      <text:p><text:span text:style-name="T2">Die Schlacht und deren Ort</text:span></text:p>
+      <text:p><text:span text:style-name="T2"/></text:p>
+      <text:p><text:span text:style-name="T2">Nachwirkungen und Quellen</text:span></text:p>
+      <text:p><text:span text:style-name="T2"/></text:p>
+      <text:p><text:span text:style-name="T2">Moderne Historikermeinungen</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp2">
+     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="5" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr6" draw:text-style-name="P10" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="page6" draw:style-name="dp3" draw:master-page-name="lightgrey" presentation:presentation-page-layout-name="AL2T1">
+    <draw:frame presentation:style-name="pr4" draw:text-style-name="P11" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:p text:style-name="P11"><text:span text:style-name="T3">Verlauf der Schlacht</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame presentation:style-name="lightgrey-outline1" draw:text-style-name="P9" draw:layer="layout" svg:width="25.199cm" svg:height="12.179cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T2"/></text:p>
+      <text:p><text:span text:style-name="T2">Militärische Übermacht Roms</text:span></text:p>
+      <text:p><text:span text:style-name="T2"/></text:p>
+      <text:p><text:span text:style-name="T2">Wiederholte Angriffe auf Schwachstellen des Trosses</text:span></text:p>
+      <text:p><text:span text:style-name="T2"/></text:p>
+      <text:p><text:span text:style-name="T2">Dauerte 3 Tage</text:span></text:p>
+      <text:p><text:span text:style-name="T2"/></text:p>
+      <text:p><text:span text:style-name="T2">15-20.000 Mann römische Verluste</text:span></text:p>
+      <text:p><text:span text:style-name="T2"/></text:p>
+      <text:p><text:span text:style-name="T2">Die Schlacht und deren Ort</text:span></text:p>
+      <text:p><text:span text:style-name="T2"/></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp2">
+     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="6" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr6" draw:text-style-name="P10" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="page7" draw:style-name="dp3" draw:master-page-name="lightgrey" presentation:presentation-page-layout-name="AL2T1">
+    <draw:frame presentation:style-name="pr4" draw:text-style-name="P11" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:p text:style-name="P11"><text:span text:style-name="T3">Simon Quellen</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame presentation:style-name="lightgrey-outline1" draw:text-style-name="P9" draw:layer="layout" svg:width="25.199cm" svg:height="12.179cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T2">http://www.clades-variana.com/der_vermutliche_ablauf_der_varusschlacht.htm</text:span></text:p>
+      <text:p><text:span text:style-name="T2"/></text:p>
+      <text:p><text:span text:style-name="T2">Statthalter Publius Quinctilius Varus</text:span></text:p>
+      <text:p><text:span text:style-name="T2"/></text:p>
+      <text:p><text:span text:style-name="T2">Cheruskerfürst Arminius</text:span></text:p>
+      <text:p><text:span text:style-name="T2"/></text:p>
+      <text:p><text:span text:style-name="T2">Die Schlacht und deren Ort</text:span></text:p>
+      <text:p><text:span text:style-name="T2"/></text:p>
+      <text:p><text:span text:style-name="T2">Nachwirkungen und Quellen</text:span></text:p>
+      <text:p><text:span text:style-name="T2"/></text:p>
+      <text:p><text:span text:style-name="T2">Moderne Historikermeinungen</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp2">
+     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="7" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr6" draw:text-style-name="P10" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
